@@ -1,0 +1,31 @@
+.col-card{
+    background-color: rgb(29, 99, 99);
+    height: 900px;
+    /* text-align: center; */
+    padding-top: 300px;
+    padding-left: 50px !important;
+}
+.col-card2{
+    background-color: aqua;
+    height: 900px;
+    text-align: center;
+    padding-top: 300px;
+    
+    padding-left:150px ; 
+}
+.MAGA{
+    font-size: 30px;
+    color: white;
+    padding-left: 100px;
+}
+.maga{
+    color: white;
+    padding-left: 100px;
+}
+
+.btn{
+    margin-left: 100px;
+    color: white;
+    border-radius: 0px !important;
+}
+
